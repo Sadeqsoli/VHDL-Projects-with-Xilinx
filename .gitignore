@@ -1,0 +1,71 @@
+# Xilinx ISE/ISim specific files
+*.ngc
+*.ngr
+*.ngd
+*.ncd
+*.ngm
+*.bgn
+*.bld
+*.bit
+*.bin
+*.drc
+*.ise
+*.lso
+*.mcs
+*.mrp
+*.ntrc_log
+*.pad
+*.par
+*.pcf
+*.prm
+*.rpt
+*.srp
+*.ssy
+*.svf
+*.tcl
+*.twx
+*.unroutes
+*.xpi
+*.xst
+*.xrpt
+*.xwbt
+*.cmd_log
+*.html
+*.backup
+*.log
+
+# ISim specific files
+*.wdb
+*.xrf
+*.xwl
+isim/
+isim/behavioral/
+isim/functional/
+
+# Work directories
+*_xmsgs/
+xst/
+xlnx_auto_0_xdb/
+xlnx_auto_1_xdb/
+xst/projnav.tmp/
+*.lck
+
+# Temporary files
+*.tmp
+*.~*
+
+# VHDL synthesis and simulation
+*.vho
+*.vhi
+*.xise
+*.obj
+*.syr
+
+# Miscellaneous
+*.jou
+*.str
+*.pf
+
+# OS generated files
+.DS_Store
+Thumbs.db

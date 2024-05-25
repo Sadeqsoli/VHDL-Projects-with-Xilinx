@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/NotGate_WaitUntilFor/NotGate_WUF_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/NotGate_WaitUntilFor/NotGate_WUF_tb_beh.prj" "work.NotGate_WUF_tb" 

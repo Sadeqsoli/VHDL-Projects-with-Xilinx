@@ -1,0 +1,6 @@
+net "clk" 		loc = p34;
+net "up_down" 		loc = p46;
+net "counter_out[0]" 		loc = p98;
+net "counter_out[1]" 		loc = p97;
+net "counter_out[2]" 		loc = p96;
+net "counter_out[3]" 		loc = p95;

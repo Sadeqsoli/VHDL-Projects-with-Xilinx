@@ -1,0 +1,2 @@
+vhdl work "Decoder2x4_code.vhd"
+vhdl work "decoder2x4_tb.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/Devoder2x4/decoder2x4_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/Devoder2x4/decoder2x4_tb_beh.prj" "work.decoder2x4_tb" 

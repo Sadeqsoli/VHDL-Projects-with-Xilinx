@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/Mux_4x1/mux_4x1_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/Mux_4x1/mux_4x1_tb_beh.prj" "work.mux_4x1_tb" 

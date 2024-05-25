@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/Comparing2-4bitNumber/Compare_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/Comparing2-4bitNumber/Compare_tb_beh.prj" "work.Compare_tb" 

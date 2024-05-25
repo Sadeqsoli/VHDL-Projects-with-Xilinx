@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="DFF_WithReset.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="dff_WR.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="dff_WR.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="dff_WR.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="dff_WR.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dff_WR.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="dff_WR.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="dff_WR.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="dff_WR.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="dff_WR_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dff_WR_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="dff_WR_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dff_wr_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="dff_wr_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="dff_wr_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1714204798" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1714204798">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204977" xil_pn:in_ck="-8710408566571891771" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1714204977">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="dff_WR.vhd"/>
+      <outfile xil_pn:name="dff_wr_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204977" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-9185890142309411453" xil_pn:start_ts="1714204977">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204977" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5055255449748153231" xil_pn:start_ts="1714204977">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204798" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="4299022640755774721" xil_pn:start_ts="1714204798">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204977" xil_pn:in_ck="-8710408566571891771" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1714204977">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="dff_WR.vhd"/>
+      <outfile xil_pn:name="dff_wr_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204985" xil_pn:in_ck="-8710408566571891771" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-1115902826046833747" xil_pn:start_ts="1714204977">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="dff_wr_tb_beh.prj"/>
+      <outfile xil_pn:name="dff_wr_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204985" xil_pn:in_ck="-5537037868629567876" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="5101808238931838874" xil_pn:start_ts="1714204985">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="dff_wr_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="526378815276559143" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="4299022640755774721" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="2190057790442035739" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-6699568006657236515" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204624" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="3143289802157438923" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1714204635" xil_pn:in_ck="4789075393706440" xil_pn:name="TRANEXT_xstsynthesize_virtex4" xil_pn:prop_ck="-3496962042402906287" xil_pn:start_ts="1714204624">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="dff_WR.lso"/>
+      <outfile xil_pn:name="dff_WR.ngc"/>
+      <outfile xil_pn:name="dff_WR.ngr"/>
+      <outfile xil_pn:name="dff_WR.prj"/>
+      <outfile xil_pn:name="dff_WR.stx"/>
+      <outfile xil_pn:name="dff_WR.syr"/>
+      <outfile xil_pn:name="dff_WR.xst"/>
+      <outfile xil_pn:name="dff_WR_vhdl.prj"/>
+      <outfile xil_pn:name="dff_WR_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

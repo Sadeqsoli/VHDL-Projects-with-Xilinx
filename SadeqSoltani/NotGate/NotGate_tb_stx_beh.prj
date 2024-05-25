@@ -1,0 +1,2 @@
+vhdl isim_temp "NotGste.vhd"
+vhdl isim_temp "NotGate_tb.vhd"

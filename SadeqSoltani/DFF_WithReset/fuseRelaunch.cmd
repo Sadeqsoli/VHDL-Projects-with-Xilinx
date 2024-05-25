@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/DFF_WithReset/dff_wr_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/DFF_WithReset/dff_wr_tb_beh.prj" "work.dff_wr_tb" 

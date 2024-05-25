@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/fa_16bit/fa_16bit_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/fa_16bit/fa_16bit_tb_beh.prj" "work.fa_16bit_tb" 

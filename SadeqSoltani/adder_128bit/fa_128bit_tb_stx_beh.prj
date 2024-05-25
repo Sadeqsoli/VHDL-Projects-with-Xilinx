@@ -1,0 +1,8 @@
+vhdl isim_temp "fa_1bit.vhd"
+vhdl isim_temp "fa_4bit.vhd"
+vhdl isim_temp "fa_8bit.vhd"
+vhdl isim_temp "fa_16bit.vhd"
+vhdl isim_temp "fa_32bit.vhd"
+vhdl isim_temp "fa_64bit.vhd"
+vhdl isim_temp "fa_128bit.vhd"
+vhdl isim_temp "fa_128bit_tb.vhd"

@@ -1,0 +1,8 @@
+vhdl work "fa_1bit.vhd"
+vhdl work "fa_4bit.vhd"
+vhdl work "fa_8bit.vhd"
+vhdl work "fa_16bit.vhd"
+vhdl work "fa_32bit.vhd"
+vhdl work "fa_64bit.vhd"
+vhdl work "fa_128bit.vhd"
+vhdl work "fa_128bit_tb.vhd"
