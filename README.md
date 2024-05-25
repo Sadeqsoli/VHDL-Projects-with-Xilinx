@@ -81,8 +81,5 @@ git clone https://github.com/Sadeqsoli/VHDL-Projects-with-Xilinx.git
 ### Contributing
 Feel free to contribute to this repository by creating pull requests, reporting issues, or suggesting improvements.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Contact
-For any questions or feedback, please contact your email.
+For any questions or feedback, please contact solisadeq@gmail.com.
