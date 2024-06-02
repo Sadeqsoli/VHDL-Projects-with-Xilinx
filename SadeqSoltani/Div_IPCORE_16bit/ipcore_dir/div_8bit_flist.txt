@@ -1,0 +1,12 @@
+# Output products list for <div_8bit>
+div_8bit.asy
+div_8bit.gise
+div_8bit.ngc
+div_8bit.sym
+div_8bit.vhd
+div_8bit.vho
+div_8bit.xco
+div_8bit.xise
+div_8bit_flist.txt
+div_8bit_readme.txt
+div_8bit_xmdf.tcl

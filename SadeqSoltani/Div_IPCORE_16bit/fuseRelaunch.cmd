@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/DesignningDigitalSystems/SadeqSoltani/Div_IPCORE_16bit/div_IP_16bit_tb_isim_beh.exe" -prj "E:/DesignningDigitalSystems/SadeqSoltani/Div_IPCORE_16bit/div_IP_16bit_tb_beh.prj" "work.div_IP_16bit_tb" 

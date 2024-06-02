@@ -1,0 +1,3 @@
+vhdl work "ipcore_dir/div_16bit.vhd"
+vhdl work "div_16bit_top.vhd"
+vhdl work "div_IP_16bit_tb.vhd"
