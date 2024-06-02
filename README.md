@@ -75,14 +75,11 @@ git clone https://github.com/Sadeqsoli/VHDL-Projects-with-Xilinx.git
 ```
 ### Opening Projects in Xilinx
 1. **Launch Xilinx ISE.**
-2. **Open the project files from the repository.
-3. **Synthesize, implement, and simulate the designs as needed.
+2. **Open the project files from the repository.**
+3. **Synthesize, implement, and simulate the designs as needed.**
 
 ### Contributing
 Feel free to contribute to this repository by creating pull requests, reporting issues, or suggesting improvements.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Contact
-For any questions or feedback, please contact your email.
+For any questions or feedback, please contact solisadeq@gmail.com.
